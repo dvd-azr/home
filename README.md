@@ -1,3 +1,2 @@
-# home
-My Home Page
+# My Home Page
 https://dvd-azr.github.io/home/
